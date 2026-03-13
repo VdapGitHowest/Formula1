@@ -1,4 +1,4 @@
-# FORMULA 1:
+# NASCAR:
 De applicatie kan:
 - racedata weergeven
 - resultaten en scores weergeven
